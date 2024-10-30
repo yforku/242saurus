@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[472],{5513:s=>{s.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Pop Quiz","permalink":"/242saurus/blog/POP-QUIZ","unlisted":false,"date":"2024-10-30T00:00:00.000Z"}]}')}}]);
